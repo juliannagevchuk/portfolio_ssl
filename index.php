@@ -6,8 +6,12 @@
 	Premier ajout
 	<p>Qqchose</p>
 	<ul>
+<<<<<<< HEAD
 	<li>Accueil</li>
 	<li>Contact</li></ul>
+=======
+	<li>Nous ne supportons html5</li></ul>
+>>>>>>> sansIE8
 </div>
 <div class="main_home">
 	<?php
