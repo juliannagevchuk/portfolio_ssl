@@ -6,7 +6,8 @@
 	Premier ajout
 	<p>Qqchose</p>
 	<ul>
-	<li>Accueil</li></ul>
+	<li>Accueil</li>
+	<li>Contact</li></ul>
 </div>
 <div class="main_home">
 	<?php
